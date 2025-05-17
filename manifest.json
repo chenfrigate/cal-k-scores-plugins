@@ -23,6 +23,12 @@
       "name": "测试插件",
       "description": "仅供测试",
       "file": "plugins/plugin_6c7c70f9.py"
+    },
+    {
+      "id": "a4238e67",
+      "name": "测试插件",
+      "description": "仅供测试",
+      "file": "plugins/plugin_a4238e67.py"
     }
   ]
 }
