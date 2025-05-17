@@ -11,6 +11,12 @@
       "name": "测试插件",
       "description": "仅供测试",
       "file": "plugins/plugin_0d23df03.py"
+    },
+    {
+      "id": "95158272",
+      "name": "测试插件",
+      "description": "仅供测试",
+      "file": "plugins/plugin_95158272.py"
     }
   ]
 }
