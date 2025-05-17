@@ -29,6 +29,12 @@
       "name": "测试插件",
       "description": "仅供测试",
       "file": "plugins/plugin_a4238e67.py"
+    },
+    {
+      "id": "b1e3ab86",
+      "name": "测试插件",
+      "description": "仅供测试",
+      "file": "plugins/plugin_b1e3ab86.py"
     }
   ]
 }
