@@ -1,3 +1,10 @@
 {
-    "plugins": []
-  }
+  "plugins": [
+    {
+      "id": "47cc3b24",
+      "name": "111",
+      "description": "2222",
+      "file": "plugins/plugin_47cc3b24.py"
+    }
+  ]
+}
