@@ -5,6 +5,12 @@
       "name": "111",
       "description": "2222",
       "file": "plugins/plugin_47cc3b24.py"
+    },
+    {
+      "id": "c012b2f8",
+      "name": "222",
+      "description": "2222",
+      "file": "plugins/plugin_c012b2f8.py"
     }
   ]
 }
